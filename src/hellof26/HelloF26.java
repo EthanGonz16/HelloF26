@@ -7,7 +7,7 @@ package hellof26;
 import java.util.Scanner;
 
 /**
- *
+ * changes on 23 sep
  * @author ethan
  */
 public class HelloF26 {
