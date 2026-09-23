@@ -5,7 +5,7 @@
 package hellof26;
 
 /**
- *
+ * Today is 23 sept 1st example of fetch+merge
  * @author ethan
  */
 public class StudentList {
